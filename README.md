@@ -1,2 +1,9 @@
-# Mosdac-Interface
-AI-based Help Bot for Information Retrieval from a Knowledge Graph Based on Static/Dynamic Web Portal using Streamlit.
+# ISRO Smart Agent v3
+
+Includes RAG, KG, Upload, Voice, Export, and Mongo plugins.
+
+## Run Locally
+```
+pip install -r requirements.txt
+streamlit run app.py
+```

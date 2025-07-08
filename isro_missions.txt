@@ -1,0 +1,119 @@
+Mission: Chandrayaan-1
+Launch Date: October 22, 2008
+Launch Vehicle: PSLV-C11
+Objective: Lunar mapping and discovery of water molecules
+Status: Successful
+
+Mission: Chandrayaan-2
+Launch Date: July 22, 2019
+Launch Vehicle: GSLV Mk III-M1
+Objective: Orbiter, lander, and rover to explore Moon
+Status: Partial success (Orbiter operational)
+
+Mission: Chandrayaan-3
+Launch Date: July 14, 2023
+Launch Vehicle: LVM3-M4
+Objective: Soft landing on Moon’s south pole
+Status: Successful
+
+Mission: Aditya-L1
+Launch Date: September 2, 2023
+Launch Vehicle: PSLV-C57
+Objective: Solar observation from Lagrangian point L1
+Status: Ongoing
+
+Mission: Gaganyaan
+Launch Date: Planned 2025
+Launch Vehicle: HLVM3
+Objective: India's first crewed space mission
+Status: In preparation
+
+Mission: Mars Orbiter Mission (Mangalyaan)
+Launch Date: November 5, 2013
+Launch Vehicle: PSLV-C25
+Objective: Orbit Mars and study surface and atmosphere
+Status: Successful
+
+Mission: Astrosat
+Launch Date: September 28, 2015
+Launch Vehicle: PSLV-C30
+Objective: Multi-wavelength astronomical observatory
+Status: Successful
+
+Mission: RISAT-2BR1
+Launch Date: December 11, 2019
+Launch Vehicle: PSLV-C48
+Objective: Radar imaging satellite for agriculture and disaster management
+Status: Successful
+
+Mission: EOS-01
+Launch Date: November 7, 2020
+Launch Vehicle: PSLV-C49
+Objective: Earth observation satellite
+Status: Successful
+
+Mission: XPoSat
+Launch Date: Planned 2024
+Launch Vehicle: PSLV
+Objective: Study X-ray polarization from cosmic sources
+Status: Scheduled
+
+Mission: SSLV-D1
+Launch Date: August 7, 2022
+Launch Vehicle: SSLV
+Objective: Launch small satellites into LEO
+Status: Failed (placed satellite in unstable orbit)
+
+Mission: SSLV-D2
+Launch Date: February 10, 2023
+Launch Vehicle: SSLV
+Objective: Successfully launch Earth observation satellites
+Status: Successful
+
+Mission: NISAR
+Launch Date: Planned 2024
+Launch Vehicle: GSLV Mk II
+Objective: Earth observation for disaster and ecosystem monitoring
+Status: Scheduled
+
+Mission: Cartosat-3
+Launch Date: November 27, 2019
+Launch Vehicle: PSLV-C47
+Objective: Advanced Earth imaging for cartography and urban planning
+Status: Successful
+
+Mission: INSAT-3DS
+Launch Date: Planned 2025
+Launch Vehicle: GSLV Mk II
+Objective: Meteorological satellite for weather forecasting
+Status: Scheduled
+
+Mission: IRNSS-1I
+Launch Date: April 12, 2018
+Launch Vehicle: PSLV-C41
+Objective: Regional navigation satellite replacement
+Status: Successful
+
+Mission: GSAT-29
+Launch Date: November 14, 2018
+Launch Vehicle: GSLV Mk III-D2
+Objective: High-throughput communications satellite
+Status: Successful
+
+Mission: GSAT-30
+Launch Date: January 17, 2020
+Launch Vehicle: Ariane 5
+Objective: Replace INSAT-4A, support TV and telecom services
+Status: Successful
+
+Mission: GSAT-6A
+Launch Date: March 29, 2018
+Launch Vehicle: GSLV-F08
+Objective: Mobile communication
+Status: Partial success (lost communication after launch)
+
+Mission: Astrosat-2
+Launch Date: Planned 2025
+Launch Vehicle: To Be Decided
+Objective: Successor to Astrosat-1, broader space observation
+Status: Proposed
